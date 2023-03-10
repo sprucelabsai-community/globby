@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="325px" preserveAspectRatio="none" style="width:870px;height:325px;" version="1.1" viewBox="0 0 870 325" width="870px" zoomAndPan="magnify"><defs/><g><!--MD5=[a6f11bb19cee6b13000111f5ad685e8b]
+cluster Dependencies--><path d="M281,231 L383,231 A4.5,4.5 0 0 1 386,234 L393,250.9688 L482,250.9688 A3,3 0 0 1 485,253.9688 L485,310 A3,3 0 0 1 482,313 L281,313 A3,3 0 0 1 278,310 L278,234 A3,3 0 0 1 281,231 " fill="#FFFFFF" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="278" x2="393" y1="250.9688" y2="250.9688"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="102" x="282" y="244.1387">Dependencies</text><!--MD5=[4338c09a15799736a91657b0a0d395f6]
+entity @sprucelabs--><rect fill="#F8F8F8" height="33.9688" rx="3" ry="3" style="stroke: #383838; stroke-width: 1.0;" width="100" x="369" y="263"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="364" y="268"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="364" y="286.9688"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="80" x="379" y="284.1387">@sprucelabs</text><!--MD5=[b72246a0fbe0a1275557d85e3c98c332]
+entity globby--><rect fill="#F8F8F8" height="33.9688" rx="3" ry="3" style="stroke: #383838; stroke-width: 1.0;" width="62" x="294" y="263"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="289" y="268"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="289" y="286.9688"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="42" x="304" y="284.1387">globby</text><ellipse cx="524.2487" cy="79.3774" fill="#F8F8F8" rx="27.7487" ry="12.8774" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="35" x="506.7487" y="82.8618">build</text><ellipse cx="312.0728" cy="140.1146" fill="#F8F8F8" rx="68.5728" ry="16.1146" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="111" x="256.5728" y="143.5989">build/globbyUtil</text><ellipse cx="468.1585" cy="140.2317" fill="#F8F8F8" rx="74.1585" ry="17.2317" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="124" x="406.1585" y="143.7161">build/globbyUtil.d</text><ellipse cx="624.8567" cy="79.4713" fill="#F8F8F8" rx="60.3567" ry="14.4713" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="91" x="579.3567" y="82.9557">build/index.d</text><ellipse cx="706.0061" cy="21.8774" fill="#F8F8F8" rx="23.5061" ry="12.8774" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="29" x="691.5061" y="25.3618">esm</text><ellipse cx="72.0538" cy="79.6108" fill="#F8F8F8" rx="66.0538" ry="15.6108" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="105" x="19.5538" y="83.0951">esm/globbyUtil</text><ellipse cx="223.0605" cy="79.7121" fill="#F8F8F8" rx="71.5605" ry="16.7121" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="118" x="164.0605" y="83.1965">esm/globbyUtil.d</text><ellipse cx="801.0072" cy="22.0014" fill="#F8F8F8" rx="58.0072" ry="14.0014" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="85" x="758.5072" y="25.4858">esm/index.d</text><ellipse cx="516.0538" cy="199.6108" fill="#F8F8F8" rx="66.0538" ry="15.6108" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="105" x="463.5538" y="203.0951">release.config</text><ellipse cx="574.7635" cy="139.8774" fill="#F8F8F8" rx="19.2635" ry="12.8774" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="23" x="563.2635" y="143.3618">src</text><ellipse cx="666.0072" cy="140.0014" fill="#F8F8F8" rx="58.0072" ry="14.0014" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="85" x="623.5072" y="143.4858">src/globbyUtil</text><!--MD5=[6ad9ba2997ead928a24f7a0fd0753710]
+link <b>build</b> to src/globbyUtil--><path d="M542.633,89.192 C547.604,91.457 552.988,93.861 558,96 C582.505,106.457 610.457,117.564 631.784,125.87 " fill="none" id="&lt;b&gt;build&lt;/b&gt;-&gt;src/globbyUtil" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="636.505,127.705,629.5676,120.7141,631.8452,125.8922,626.6671,128.1698,636.505,127.705" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[e9e58edb2c996703affe5af3ba9588c7]
+link <b>build/globbyUtil</b> to globby--><path d="M313.416,156.031 C315.733,180.627 320.341,229.5455 322.994,257.704 " fill="none" id="&lt;b&gt;build/globbyUtil&lt;/b&gt;-&gt;globby" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="323.465,262.7096,326.6033,253.3741,322.9961,257.7316,318.6385,254.1244,323.465,262.7096" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[c0ed2e230bf10d57f2fbb9cf0bcafbe7]
+link <b>build/globbyUtil.d</b> to globby--><path d="M443.852,156.292 C421.087,171.451 386.849,196.226 362,223 C352.151,233.6122 343.146,247.1148 336.487,258.2022 " fill="none" id="&lt;b&gt;build/globbyUtil.d&lt;/b&gt;-&gt;globby" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="333.781,262.7907,341.7982,257.0702,336.3208,258.4838,334.9072,253.0064,333.781,262.7907" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[c8881096b7003726e437debf6244fce3]
+link <b>build/index.d</b> to src/globbyUtil--><path d="M634.509,94.068 C640.283,102.306 647.708,112.9 653.897,121.732 " fill="none" id="&lt;b&gt;build/index.d&lt;/b&gt;-&gt;src/globbyUtil" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="656.824,125.908,654.9334,116.2423,653.954,121.8137,648.3826,120.8343,656.824,125.908" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[e61ef380224afc4c9c74a84a3702bdf4]
+link <b>esm</b> to src/globbyUtil--><path d="M704.984,35.246 C703.458,50.049 699.865,75.52 692,96 C688.581,104.902 683.342,114.042 678.459,121.594 " fill="none" id="&lt;b&gt;esm&lt;/b&gt;-&gt;src/globbyUtil" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="675.485,126.074,683.7955,120.7885,678.2506,121.9085,677.1306,116.3636,675.485,126.074" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[139db9a8a610deae0591a429ed2cc207]
+link <b>esm/globbyUtil</b> to globby--><path d="M89.7905,94.458 C134.098,129.221 249.46,219.732 300.311,259.6298 " fill="none" id="&lt;b&gt;esm/globbyUtil&lt;/b&gt;-&gt;globby" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="304.444,262.8722,299.8333,254.1692,300.5106,259.7854,294.8944,260.4627,304.444,262.8722" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[6309f3e70daba9e30482cd5a079a8a07]
+link <b>esm/globbyUtil.d</b> to globby--><path d="M223.831,96.024 C225.136,111.901 228.476,137.003 237,157 C253.941,196.743 285.735,236.0669 306.111,258.9173 " fill="none" id="&lt;b&gt;esm/globbyUtil.d&lt;/b&gt;-&gt;globby" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="309.528,262.7146,306.4819,253.3486,306.1837,258.9976,300.5347,258.6995,309.528,262.7146" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[209ec7076fa1616e9699030b00abc1b2]
+link <b>esm/index.d</b> to src/globbyUtil--><path d="M786.296,35.635 C761.544,56.903 711.614,99.806 684.513,123.092 " fill="none" id="&lt;b&gt;esm/index.d&lt;/b&gt;-&gt;src/globbyUtil" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="680.686,126.381,690.1187,123.5483,684.4779,123.122,684.9043,117.4812,680.686,126.381" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[79022f06dc1b415141bb24c965e51c14]
+link <b>release.config</b> to @sprucelabs--><path d="M498.658,214.534 C483.186,227.056 460.376,245.5154 443.125,259.476 " fill="none" id="&lt;b&gt;release.config&lt;/b&gt;-&gt;@sprucelabs" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="438.867,262.922,448.3793,260.3692,442.7536,259.7764,443.3463,254.1507,438.867,262.922" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[a9c5a8a677377b5ed37394f2a31d5fb8]
+link <b>src</b> to src/globbyUtil--><path d="M594.551,140 C597.342,140 600.133,140 602.924,140 " fill="none" id="&lt;b&gt;src&lt;/b&gt;-&gt;src/globbyUtil" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="607.948,140,598.948,136,602.948,140,598.948,144,607.948,140" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[e6ba812d16bef5c332d83ad4ed6441cb]
+link src/globbyUtil to globby--><path d="M628.297,150.769 C619.375,152.945 609.874,155.152 601,157 C531.256,171.523 508.992,157.163 443,184 C420.503,193.149 420.264,205.298 398,215 C382.974,221.548 375.502,213.708 362,223 C349.374,231.6901 339.954,246.2347 333.78,258.3231 " fill="none" id="src/globbyUtil-&gt;globby" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="331.492,262.9878,339.0454,256.6676,333.693,258.4983,331.8623,253.1459,331.492,262.9878" style="stroke: #000000; stroke-width: 0.5;"/><script type="text/plantuml"><![CDATA[MD5=[5bc87dda02057a9f79cb308ff46a2899]
+@startuml
+
+scale max 1920 width
+top to bottom direction
+
+skinparam nodesep 13
+skinparam ranksep 27
+skinparam monochrome true
+skinparam shadowing false
+skinparam defaultFontName Tahoma
+skinparam defaultFontSize 12
+skinparam roundCorner 6
+skinparam dpi 150
+skinparam arrowColor black
+skinparam arrowThickness 0.5
+skinparam packageTitleAlignment left
+
+skinparam usecase {
+  borderThickness 0.5
+}
+
+skinparam rectangle {
+  borderThickness 0.5
+}
+
+skinparam component {
+  borderThickness 1
+}
+
+
+(<b>build</b>)
+(<b>build/globbyUtil</b>)
+(<b>build/globbyUtil.d</b>)
+(<b>build/index.d</b>)
+(<b>esm</b>)
+(<b>esm/globbyUtil</b>)
+(<b>esm/globbyUtil.d</b>)
+(<b>esm/index.d</b>)
+(<b>release.config</b>)
+(<b>src</b>)
+(src/globbyUtil)
+
+package "Dependencies" {
+  [@sprucelabs]
+  [globby]
+}
+
+(<b>build</b>) --[thickness=1]> (src/globbyUtil)
+(<b>build/globbyUtil</b>) ---[thickness=1]> [globby]
+(<b>build/globbyUtil.d</b>) ---[thickness=1]> [globby]
+(<b>build/index.d</b>) --[thickness=1]> (src/globbyUtil)
+(<b>esm</b>) ---[thickness=1]> (src/globbyUtil)
+(<b>esm/globbyUtil</b>) ----[thickness=1]> [globby]
+(<b>esm/globbyUtil.d</b>) ----[thickness=1]> [globby]
+(<b>esm/index.d</b>) ---[thickness=1]> (src/globbyUtil)
+(<b>release.config</b>) --[thickness=1]> [@sprucelabs]
+(<b>src</b>) -[thickness=1]> (src/globbyUtil)
+(src/globbyUtil) ---> [globby]
+
+@enduml
+
+
+' View and edit on https://arkit.pro
+]]></script></g></svg>
