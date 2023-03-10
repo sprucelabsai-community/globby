@@ -1,2 +1,2 @@
-import globby from 'globbyUtil'
+import globby from './globbyUtil'
 export default globby
