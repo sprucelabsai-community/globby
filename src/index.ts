@@ -1,1 +1,2 @@
-//exports go here
+import globby from 'globbyUtil'
+export default globby
