@@ -15,7 +15,6 @@ Spruce XP Documentation
 </p>
 
 <br />
-
 <p align="center">
 <a href="https://developer.spruce.ai/"><img width="250" src="https://raw.githubusercontent.com/sprucelabsai/globby/master/docs/images/read-full-docs.png" /></a>
 </p>
