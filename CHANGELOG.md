@@ -1,3 +1,10 @@
+# [1.0.0](https://github.com/sprucelabsai-community/globby/compare/v0.0.7...v1.0.0) (2023-05-04)
+
+
+### Breaking Changes
+
+* **auto-upgrade:** upgraded packages [upgrade-all] ([fdd7ee6](https://github.com/sprucelabsai-community/globby/commit/fdd7ee6))
+
 ## [0.0.7](https://github.com/sprucelabsai/globby/compare/v0.0.6...v0.0.7) (2023-03-13)
 
 ## [0.0.6](https://github.com/sprucelabsai/globby/compare/v0.0.5...v0.0.6) (2023-03-11)
