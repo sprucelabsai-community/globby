@@ -1,6 +1,6 @@
 {
   "name": "@sprucelabs/globby",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "skill": {
     "namespace": "globby",
     "upgradeIgnoreList": [
