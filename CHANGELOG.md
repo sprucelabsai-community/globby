@@ -1,3 +1,10 @@
+# [2.0.0](https://github.com/sprucelabsai-community/globby/compare/v1.0.32...v2.0.0) (2024-04-15)
+
+
+### Breaking Changes
+
+* eslint upgrade ([422a6f5](https://github.com/sprucelabsai-community/globby/commit/422a6f5))
+
 ## [1.0.32](https://github.com/sprucelabsai-community/globby/compare/v1.0.31...v1.0.32) (2024-04-01)
 
 ## [1.0.31](https://github.com/sprucelabsai-community/globby/compare/v1.0.30...v1.0.31) (2024-03-30)
