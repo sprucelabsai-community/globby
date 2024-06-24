@@ -51,14 +51,14 @@
     "globby": "^11.0.4"
   },
   "devDependencies": {
-    "@sprucelabs/esm-postbuild": "^6.0.47",
-    "@sprucelabs/jest-json-reporter": "^8.0.66",
-    "@sprucelabs/resolve-path-aliases": "^2.0.42",
+    "@sprucelabs/esm-postbuild": "^6.0.50",
+    "@sprucelabs/jest-json-reporter": "^8.0.69",
+    "@sprucelabs/resolve-path-aliases": "^2.0.45",
     "@sprucelabs/semantic-release": "^5.0.1",
-    "@sprucelabs/spruce-skill-utils": "^31.0.120",
-    "@sprucelabs/test": "^9.0.29",
-    "@sprucelabs/test-utils": "^5.1.1",
-    "@types/node": "^20.14.6",
+    "@sprucelabs/spruce-skill-utils": "^31.0.126",
+    "@sprucelabs/test": "^9.0.30",
+    "@sprucelabs/test-utils": "^5.1.2",
+    "@types/node": "^20.14.8",
     "chokidar-cli": "^3.0.0",
     "eslint": "^9.5.0",
     "eslint-config-spruce": "^11.2.24",
@@ -67,7 +67,7 @@
     "prettier": "^3.3.2",
     "ts-node": "^10.9.2",
     "tsc-watch": "^6.2.0",
-    "typescript": "^5.4.5"
+    "typescript": "^5.5.2"
   },
   "description": "A cross-platform globby wrapper",
   "jest": {
