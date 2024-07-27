@@ -51,13 +51,13 @@
     "globby": "^11.0.4"
   },
   "devDependencies": {
-    "@sprucelabs/esm-postbuild": "^6.0.168",
-    "@sprucelabs/jest-json-reporter": "^8.0.186",
-    "@sprucelabs/resolve-path-aliases": "^2.0.164",
+    "@sprucelabs/esm-postbuild": "^6.0.169",
+    "@sprucelabs/jest-json-reporter": "^8.0.187",
+    "@sprucelabs/resolve-path-aliases": "^2.0.165",
     "@sprucelabs/semantic-release": "^5.0.2",
-    "@sprucelabs/spruce-skill-utils": "^31.0.246",
+    "@sprucelabs/spruce-skill-utils": "^31.0.247",
     "@sprucelabs/test": "^9.0.40",
-    "@sprucelabs/test-utils": "^5.1.122",
+    "@sprucelabs/test-utils": "^5.1.123",
     "@types/node": "^20.14.12",
     "chokidar-cli": "^3.0.0",
     "eslint": "^9.8.0",
