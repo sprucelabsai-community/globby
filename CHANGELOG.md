@@ -1,3 +1,5 @@
+## [2.0.361](https://github.com/sprucelabsai-community/globby/compare/v2.0.360...v2.0.361) (2024-09-28)
+
 ## [2.0.360](https://github.com/sprucelabsai-community/globby/compare/v2.0.359...v2.0.360) (2024-09-28)
 
 ## [2.0.359](https://github.com/sprucelabsai-community/globby/compare/v2.0.358...v2.0.359) (2024-09-28)
