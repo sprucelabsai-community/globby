@@ -51,11 +51,11 @@
     "globby": "^11.0.4"
   },
   "devDependencies": {
-    "@sprucelabs/esm-postbuild": "^6.0.529",
+    "@sprucelabs/esm-postbuild": "^6.0.530",
     "@sprucelabs/jest-json-reporter": "^8.0.553",
-    "@sprucelabs/resolve-path-aliases": "^2.0.520",
+    "@sprucelabs/resolve-path-aliases": "^2.0.521",
     "@sprucelabs/semantic-release": "^5.0.2",
-    "@sprucelabs/spruce-skill-utils": "^31.0.648",
+    "@sprucelabs/spruce-skill-utils": "^31.0.649",
     "@sprucelabs/test": "^9.0.63",
     "@sprucelabs/test-utils": "^5.1.520",
     "@types/node": "^22.10.1",
