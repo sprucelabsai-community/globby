@@ -1,3 +1,8 @@
+## <small>2.0.517 (2026-02-18)</small>
+
+* chore(auto-upgrade): Upgrade Tests Passed [auto-merge] ([f422e6f](https://github.com/sprucelabsai-community/globby/commit/f422e6f))
+* chore(auto-upgrade): upgraded packages [upgrade-all] ([e653e6c](https://github.com/sprucelabsai-community/globby/commit/e653e6c))
+
 ## <small>2.0.516 (2026-02-17)</small>
 
 * patch: bump ([dce93f2](https://github.com/sprucelabsai-community/globby/commit/dce93f2))
