@@ -1,3 +1,8 @@
+## <small>2.0.519 (2026-02-23)</small>
+
+* chore(auto-upgrade): Upgrade Tests Passed [auto-merge] ([9336212](https://github.com/sprucelabsai-community/globby/commit/9336212))
+* chore(auto-upgrade): upgraded packages [upgrade-all] ([a804b19](https://github.com/sprucelabsai-community/globby/commit/a804b19))
+
 ## <small>2.0.518 (2026-02-20)</small>
 
 * chore(auto-upgrade): Upgrade Tests Passed [auto-merge] ([a64635a](https://github.com/sprucelabsai-community/globby/commit/a64635a))
